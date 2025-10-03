@@ -1,7 +1,5 @@
 # server-stats-linux
 
-# Server Performance Stats
-
 A simple Bash script to analyze Linux server performance.
 
 ## Features
